@@ -1,2 +1,2 @@
 def get():
-    return "FIXME"
+    return "FIXME_SIGNUP"
